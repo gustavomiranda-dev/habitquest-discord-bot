@@ -14,7 +14,7 @@ public class DesenvolvedorCommand extends ListenerAdapter {
         embed.setDescription(
                 "Gustavo Miranda Brito\n" +
                         "Criador do HabitQuest\n\n" +
-                        "🔗 GitHub: Gusta-code22"
+                        "🔗 GitHub: gustavomiranda-dev"
         );
 
         event.replyEmbeds(embed.build()).queue();
